@@ -1,0 +1,27 @@
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: lightskyblue;
+}
+
+header{
+
+    background:linear-gradient(rgb(57, 57, 182), rgb(230, 215, 215));
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+img{
+
+    border-radius: 20px;
+}
+
+footer{
+    font-weight: bold;
+    background-color: aqua;
+}
+
+section{
+    background-color: aliceblue;
+}
